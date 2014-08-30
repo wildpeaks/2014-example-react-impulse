@@ -1,0 +1,29 @@
+{
+	"bitwise": false,
+	"camelcase": false,
+	"curly": true,
+	"eqeqeq": true,
+	"es3": true,
+	"forin": false,
+	"immed": true,
+	"latedef": true,
+	"newcap": true,
+	"noarg": true,
+	"noempty": true,
+	"nonew": true,
+	"plusplus": false,
+	"quotmark": "single",
+	"undef": true,
+	"unused": "strict",
+	"strict": true,
+	"trailing": true,
+
+	"browser": true,
+	"devel": true,
+	"jquery": false,
+	"node": false,
+	"globals": {
+		"module": true,
+		"require": true
+	}
+}
