@@ -1,0 +1,17 @@
+
+fieldset {
+	height: 250px;
+	padding: 10px;
+	margin: 40px 10px;
+}
+
+.ball {
+	background-color: #0da0cc;
+	border-radius: 50px;
+	height: 50px;
+	width: 50px;
+}
+
+.draggable {
+	cursor: -webkit-grab;
+}
